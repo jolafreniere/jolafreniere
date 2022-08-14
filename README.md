@@ -1,4 +1,4 @@
 - Hey there, I'm Joe
 - I've been mostly doing nodejs personal projects lately, some of them involving OCR/UI interaction
-- I kinda know my way around Express and TypeScript
+- I kinda know my way around Express, TypeScript, Github Actions, pretty much all the that's involved in the node back end stuff 
 - You can reach me through my email: jonathan.lafreniere@gmail.com
