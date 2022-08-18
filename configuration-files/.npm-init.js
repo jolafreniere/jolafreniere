@@ -18,7 +18,7 @@ const tsBoilerplateFiles = {
   "./.gitignore": `${boilerplateDir}\\ts\\.gitignore`,
   "./rest.http": `${boilerplateDir}\\ts\\rest.http`,
   "./src/index.ts": `${boilerplateDir}\\ts\\src\\index.ts`,
-  "./src/test/index.test.ts": `${boilerplateDir}\\ts\\src\\index.ts`,
+  "./src/test/index.test.ts": `${boilerplateDir}\\ts\\src\\test\\index.test.ts`,
 };
 
 module.exports = {
