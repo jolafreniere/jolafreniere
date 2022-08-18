@@ -108,6 +108,7 @@ module.exports = {
         test: "jest --coverage",
         prettier: "prettier --config .prettierrc --write .",
         "test:watch": "jest --watch",
+        versionBump: "bump --tag --push --all",
       };
     } else {
       return {
