@@ -104,7 +104,7 @@ module.exports = {
     ) {
       return {
         start: "node dist/index.js",
-        "start:build": "tsc -p tsconfig.json;node dist/index.js",
+        "start:build": "tsc -p tsconfig.json && node dist/index.js",
         clean: "rimraf coverage build tmp",
         build: "tsc -p tsconfig.json",
         "build:watch": "tsc -w -p tsconfig.json",
